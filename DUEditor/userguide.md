@@ -68,7 +68,7 @@ Ueditor HTML编辑器是百度开源的HTML编辑器，
             UEDITOR_SETTINGS={
                 "toolbars":{           #定义多个工具栏显示的按钮，允行定义多个
                     "name1":[[ 'source', '|','bold', 'italic', 'underline']],
-                    "name2",[]
+                    "name2":[]
                 },
                 "images_upload":{
                     "allow_type":"jpg,png",    #定义允许的上传的图片类型
